@@ -37,7 +37,7 @@
 - 📫 Please contact me via github or email:
 - E-mail: hirasawasu@foxmail.com. 
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Soung2279&count_private=true&show_icons=true" alt="Soung2279" />
+<img align="right" width="250px" src="https://github-readme-stats.vercel.app/api?username=Soung2279&count_private=true&show_icons=true" alt="Soung2279" />
 
 📊 **Environment and Tools:**  
 
