@@ -25,7 +25,7 @@
 - I used to dream of being a painter. But **the reality made me have to learn a technology💻,**
 - and I also came into contact with **programming**.
 
-<img align="right" alt="png" src="https://i.loli.net/2021/08/20/Bbtf1cPwZYED5Vg.png" />
+<img align="right" alt="png" width="250px" src="https://i.loli.net/2021/08/20/Bbtf1cPwZYED5Vg.png" />
 
 **Talking about Personal Stuffs:**
 
@@ -37,7 +37,7 @@
 - 📫 Please contact me via github or email:
 - E-mail: hirasawasu@foxmail.com. 
 
-<img align="right" width="250px" src="https://github-readme-stats.vercel.app/api?username=Soung2279&count_private=true&show_icons=true" alt="Soung2279" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Soung2279&count_private=true&show_icons=true" alt="Soung2279" />
 
 📊 **Environment and Tools:**  
 
