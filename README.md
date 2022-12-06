@@ -20,19 +20,21 @@
 
 - 🌱 [K-on!](https://www.bilibili.com/bangumi/play/ss1172/) 好き！
 
-- 👨 国V喜欢看 [七海Nana7mi](https://space.bilibili.com/434334701)，[冰糖IO](https://space.bilibili.com/198297)，[hanser](https://space.bilibili.com/11073)，[泠鸢yousa](https://space.bilibili.com/282994)，A-Soul的5人仅作了解<br>👨 日V喜欢看 [雫るる_Official](https://space.bilibili.com/387636363)，[花园Serena](https://space.bilibili.com/380829248)，[本间向日葵Official](https://space.bilibili.com/403928672)，[猫宫日向Official](https://space.bilibili.com/291296062)
+- 🌱 [Bocchi the Rock!]([https://www.bilibili.com/bangumi/play/ss1172/](https://bocchi.rocks/)) 好き！
 
-- 💻 非计算机专业（数字媒体艺术），垃圾本科学校
+- 👨 不看皮套人
 
-- 🤔 主要使用 Python，Html 和 CSS 会一点点皮毛
+- 💻 数字媒体艺术
 
-- 💬 喜欢 DIY 东西，例如折腾软路由阿NAS阿啥的 =  =
+- 🤔 使用 Python 吟诵魔法
 
-- 👯 最近主要在搞QQBot，基于 [HoshinoBot](https://github.com/Ice-Cirno/HoshinoBot) 和 [nonebot 1]() 编写一点简单的插件
+- 💬 Do it Myself
 
-- 📊 做过个人博客 [nogkdmoreghs.cn](http://nogkdmoreghs.cn/wordpress) ，因为服务器和域名到期不再运行
+- 👯 在研QQBot，基于 [HoshinoBot](https://github.com/Ice-Cirno/HoshinoBot) 和 [nonebot 1]() 编写一点简单的插件
 
-- 📫 有事可直接联系 Github
+- 📊 个人博客 [nogkdmoreghs.cn](http://nogkdmoreghs.cn/wordpress) ，因为服务器和域名到期不再运行
+
+- 📫 有事联系 Github
 
 
 <details>
