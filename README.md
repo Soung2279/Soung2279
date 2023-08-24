@@ -2,18 +2,6 @@
 
 <hr>
 
-<html>
-<iframe 
-        frameborder="no" 
-        border="0" 
-        marginwidth="0" 
-        marginheight="0" 
-        width=100% 
-        height=100 
-        src="https://music.163.com/outchain/player?type=2&id=1446326362&auto=0&height=67"
-></iframe>
-</html>
-
 <img align="right" src="https://i.loli.net/2021/08/20/Bbtf1cPwZYED5Vg.png" width="400px" alt="png"/>
 
 >**个人介绍**
@@ -65,7 +53,7 @@
 <a href="https://steamcommunity.com/id/hirasawasu/">
   <img align="left" alt="Steam" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/steam.svg" />
 </a><br>
-<a href="https://github.com/yzp-99/">
+<a href="https://github.com/Soung2279/">
   <img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.0/icons/github.svg" />
 </a><br>
 <a href="http://wpa.qq.com/msgrd?v=3&uin=2279134404&site=qq&menu=yes">
