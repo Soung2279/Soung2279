@@ -2,7 +2,7 @@
 
 <hr>
 
-<img align="right" src="https://i.loli.net/2021/08/20/Bbtf1cPwZYED5Vg.png" width="250px" alt="png"/>
+<img align="right" src="https://i.loli.net/2021/08/20/Bbtf1cPwZYED5Vg.png" width="280px" alt="png"/>
 
 >**个人介绍**
 
@@ -46,9 +46,9 @@
 </a>
 </details>
 
-
+<br></br>
 ![Soung's GitHub stats](https://github-readme-stats.vercel.app/api?username=soung2279&show_icons=true&theme=dracula)
-
+<br></br>
 
 [![GitHub](https://img.shields.io/badge/Github-Soung2279-6666CC?style=flat-square&logo=github)](https://github.com/Soung2279)
 [![Pixiv](https://img.shields.io/badge/Pixiv-@松尧Soung-0099FF?style=flat-square&logo=pixiv)](http://www.pixiv.net/member.php?id=24463430)
